@@ -3,7 +3,7 @@
 > **Author:** Christian Perez — Full-Stack Engineer & Automation Specialist  
 > **Live Product:** [playkofight.com](https://playkofight.com/)  
 > **Gameplay Demo:** [Watch on TikTok](https://www.tiktok.com/@castellstudios/video/7631270483593350421?lang=es-419)  
-> **Loom Walkthrough:** [Watch Technical Walkthrough](#) *(replace with your Loom link)*
+
 
 ---
 
@@ -189,7 +189,7 @@ These patterns are directly transferable to regulated environments (HIPAA, SOC 2
 
 ## Contact
 
-- **GitHub:** [github.com/christianprogramer09-lab](https://github.com/christianprogramer09-lab)
-- **Website:** [playkofight.com](https://playkofight.com/)
+- **GitHub:** [https://github.com/christianprogramer09-lab/automation-portfolio-christian.git)
+- **Website:** (https://playkofight.com/)
 - **Email:** *(christian.programer09@gmail.com)*
 
