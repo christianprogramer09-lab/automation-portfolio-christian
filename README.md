@@ -191,5 +191,5 @@ These patterns are directly transferable to regulated environments (HIPAA, SOC 2
 
 - **GitHub:** [github.com/christianprogramer09-lab](https://github.com/christianprogramer09-lab)
 - **Website:** [playkofight.com](https://playkofight.com/)
-- **Email:** *(add your email here)*
+- **Email:** *(christian.programer09@gmail.com)*
 
